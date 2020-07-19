@@ -1,1 +1,3 @@
-# pandas-challenge
+# Pandas Challenge
+
+This file contains analysis of schools based on district and school data pertaining to size, budget, type of school, and test scores.  The data indicates that higher per-student budgets do not correlate to higher test scores.  In fact, schools with per-student budgets between $585-615 had the highest test scores and passing percentages, as opposed to schools with the highest per-student budgets, which ranked lowest in all categores relating to test scores. The data also shows the largest schools have the lowest rankings in all testing-related analyses.  One final note of interest is that charter schools have significantly higher scores and percentages of students passing that district schools.
